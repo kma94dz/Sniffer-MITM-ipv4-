@@ -1,0 +1,4 @@
+0-\Device\NPF_{411A1BAA-CD24-4B1B-9342-A9EF398BCA89} Microsoft
+1-\Device\NPF_{108EB5E9-2EFD-449F-9387-686084A9F4DE} Microsoft
+2-\Device\NPF_{4D9FC73C-4492-4438-AF10-32601BD1949A} Realtek Ethernet Controller
+Materiel selectioné : 3 Realtek Ethernet Controller 
